@@ -22,5 +22,5 @@ function johnLennonFacts(facts) {
 }
 function iLoveTheBeatles(n) {
   const loveShack = [];
-  for (let i = 0; i < 15; i++)
+  do 
 }
