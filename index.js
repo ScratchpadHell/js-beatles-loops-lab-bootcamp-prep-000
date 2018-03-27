@@ -22,5 +22,8 @@ function johnLennonFacts(facts) {
 }
 function iLoveTheBeatles(n) {
   const loveShack = [];
-  do 
+  do {
+    const.push("I love the Beatles!")
+  }
+  while
 }
