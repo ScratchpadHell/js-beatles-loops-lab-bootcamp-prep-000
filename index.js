@@ -24,7 +24,7 @@ function iLoveTheBeatles(n) {
   const loveShack = [];
   do {
     loveShack.push("I love the Beatles!")
+  n++
   }
   while(n < 15)
-  n++
 } return loveShack;
