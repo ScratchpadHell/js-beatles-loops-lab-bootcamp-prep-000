@@ -20,3 +20,7 @@ function johnLennonFacts(facts) {
   i++
 } return loudFacts;
 }
+function iLoveTheBeatles(n) {
+  const loveShack = [];
+  for (let i = 0; i < 15; i++)
+}
