@@ -15,7 +15,7 @@ function johnLennonFacts(facts) {
   "He hated the sound of his own voice"
   ];
   let i = 0; 
-  while(i < facts.length) {
+  while(i < loudFacts.length) {
   console.log(`${facts[i]}!!!`)
   i++
 } return loudFacts;
