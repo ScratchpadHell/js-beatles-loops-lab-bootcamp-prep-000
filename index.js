@@ -14,5 +14,5 @@ function johnLennonFacts(facts) {
   while(i < facts.length) {
   console.log(`${facts[i]}!!!`)
   i++
-} return facts;
+} return loudFacts;
 }
