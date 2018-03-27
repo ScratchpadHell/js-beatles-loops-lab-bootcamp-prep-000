@@ -23,7 +23,7 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(n) {
   const loveShack = [];
   do {
-    const.push("I love the Beatles!")
+    loveShack.push("I love the Beatles!")
   }
-  while
+  while(n < 15)
 }
